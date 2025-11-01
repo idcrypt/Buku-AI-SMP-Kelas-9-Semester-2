@@ -1,6 +1,8 @@
 # Buku AI SMP Kelas 9 Semester 2 AI Bukan Cuma Coding: Kerja Tim, Etika, dan Ide Brilian!
 Jumlah Pertemuan: 14
+
 Anas Nasrulloh, M.Kom.
+
 Onno W. Purbo
 
 Institut Teknologi Tangerang Selatan (ITTS)
